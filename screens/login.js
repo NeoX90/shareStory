@@ -1,5 +1,5 @@
 // import '../../utils.js'
-import { getDataFromDocs,saveToLocalStorage } from '../../utils.js'
+import { getDataFromDocs,saveToLocalStorage } from '../utils.js'
 const style =`
     <style>
         .login-container{

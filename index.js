@@ -7,7 +7,7 @@ import './components/createPost.js'
 import './components/inputWrapper.js'
 import './components/postItem.js'
 import './components/listPost.js'
-import {getItemsLocalStorage} from '../utils.js'
+import {getItemsLocalStorage} from './utils.js'
 
 checkAuthen()
 // redirect('register')
