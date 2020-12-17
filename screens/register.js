@@ -1,4 +1,4 @@
-import '../../utils.js'
+import '../utils.js'
 
 const style =`
     <style>

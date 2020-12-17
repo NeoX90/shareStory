@@ -7,7 +7,7 @@ const style =`
         margin-top:15px;
     }
 `
-import { getDataFromDocs ,getDataFromDoc} from "../../utils.js"
+import { getDataFromDocs ,getDataFromDoc} from "../utils.js"
 class ListPost extends HTMLElement {
     constructor() {
         super();

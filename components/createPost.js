@@ -1,4 +1,4 @@
-import { getItemsLocalStorage } from "../../utils.js"
+import { getItemsLocalStorage } from "../utils.js"
 
 const style =`
 

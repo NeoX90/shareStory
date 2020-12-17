@@ -19,7 +19,7 @@ const style =`
     font-size: 16px 
 }
 `
-import {convertDate} from '../../utils.js'
+import {convertDate} from '../utils.js'
 class PostItem extends HTMLElement{
     constructor() {
         super()
